@@ -1,0 +1,23 @@
+.containerPrincipal {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 400px;
+    transform: translate(-50%, -50%);
+    border: 0px solid blue;
+    padding: 40px;
+    background-color: white;
+    border-radius: 19px;
+}
+
+.containerLogin{
+  text-align: center;
+}
+h2 {
+  font-size: 26px;
+  font-family: 'allerregular';
+                                                
+}
+
+
+
